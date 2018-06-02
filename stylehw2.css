@@ -119,11 +119,8 @@ h2 {
         height: 60rem;
         float: left;
         background-color: #c1c5c2;
-        padding: 2%;
     }
-        #grid-floats li:first-child img{
-            width: 50%; 
-    }
+
     #grid-floats li:nth-child(n+2):nth-child(-n+3){
         width: 25%;
         height: 60rem;
