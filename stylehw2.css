@@ -1,8 +1,6 @@
 
 html{
-    font-size: 11px;
-    letter-spacing: -0.04rem;
-    word-spacing: -0.04rem;
+    font-size: 14px;  
     background-color: #868686;
 }
 
@@ -21,11 +19,11 @@ img{
 .grid-item{
     border:0.3rem #868686 solid;
     padding: 0.5rem;
-    text-align: justify;
+    text-align: left;
     border-radius: 1.9rem;
     list-style: none;
     background-color: rgb(255, 255, 255);
-    overflow: scroll;
+    overflow: auto;
  }
 .grid-item:hover{
     background-color: rgb(211, 223, 223);
@@ -36,7 +34,6 @@ img{
 #grid-floats{
     overflow: hidden;
     padding: 2% 0;
-    margin: 0;
 }
 #grid-floats li{
     float: left;
