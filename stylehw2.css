@@ -120,7 +120,6 @@ h2 {
         float: left;
         background-color: #c1c5c2;
     }
-
     #grid-floats li:nth-child(n+2):nth-child(-n+3){
         width: 25%;
         height: 60rem;
